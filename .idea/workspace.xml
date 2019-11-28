@@ -2,7 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="82012782-d94f-4e45-9cba-bed3362799e4" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/zdatbit.thread/src/main/java/cache一致性.md" afterPath="$PROJECT_DIR$/zdatbit.thread/src/main/java/cache一致性.md" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/zdatbit.thread/build/classes/java/main/com/zdatbit/singleton/Singleton1$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/zdatbit.thread/build/classes/java/main/com/zdatbit/singleton/Singleton1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/zdatbit.thread/build/classes/java/main/com/zdatbit/singleton/Singleton2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/zdatbit.thread/build/classes/java/main/com/zdatbit/singleton/Singleton3.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/zdatbit.thread/build/classes/java/main/com/zdatbit/singleton/Singleton4$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/zdatbit.thread/build/classes/java/main/com/zdatbit/singleton/Singleton4.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/zdatbit.thread/build/classes/java/main/com/zdatbit/singleton/Singleton5$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/zdatbit.thread/build/classes/java/main/com/zdatbit/singleton/Singleton5.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/zdatbit.thread/build/classes/java/main/com/zdatbit/singleton/Singleton6$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/zdatbit.thread/build/classes/java/main/com/zdatbit/singleton/Singleton6$SingleHolder.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/zdatbit.thread/build/classes/java/main/com/zdatbit/singleton/Singleton6.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/zdatbit.thread/build/classes/java/main/com/zdatbit/singleton/Singleton7$SingleEnum.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/zdatbit.thread/build/classes/java/main/com/zdatbit/singleton/Singleton7.class" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/zdatbit.thread/.gradle/" />
     <ignored path="$PROJECT_DIR$/zdatbit.thread/build/" />
@@ -32,13 +45,13 @@
         <entry file="file://$PROJECT_DIR$/zdatbit.thread/build.gradle">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="220">
-              <caret line="10" column="1" lean-forward="true" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+              <caret line="10" column="1" lean-forward="false" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="cache一致性.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="cache一致性.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/zdatbit.thread/src/main/java/cache一致性.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
@@ -47,6 +60,16 @@
                 <folding />
               </first_editor>
               <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/zdatbit.thread/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="132">
+              <caret line="33" column="0" lean-forward="true" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -433,6 +456,7 @@
         <option value="$PROJECT_DIR$/zdatbit.thread/src/main/java/com/zdatbit/singleton/Singleton5.java" />
         <option value="$PROJECT_DIR$/zdatbit.thread/src/main/java/com/zdatbit/singleton/Singleton6.java" />
         <option value="$PROJECT_DIR$/zdatbit.thread/src/main/java/cache一致性.md" />
+        <option value="$PROJECT_DIR$/zdatbit.thread/.gitignore" />
       </list>
     </option>
   </component>
@@ -500,15 +524,11 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
+              <option name="myItemId" value=".gradle" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="org.jetbrains.plugins.gradle.projectView.GradleTreeStructureProvider$GradleSourceSetDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
+              <option name="myItemId" value="4.4.1" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -524,6 +544,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\github\thread\zdatbit.thread" />
       <recent name="D:\github\thread\zdatbit.thread\src\main\java" />
     </key>
   </component>
@@ -1029,12 +1050,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1574838268865</updated>
-      <workItem from="1574838272631" duration="5619000" />
+      <workItem from="1574838272631" duration="6154000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5619000" />
+    <option name="totallyTimeSpent" value="6154000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -1169,7 +1190,7 @@
     <entry file="file://$PROJECT_DIR$/zdatbit.thread/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="220">
-          <caret line="10" column="1" lean-forward="true" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+          <caret line="10" column="1" lean-forward="false" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
           <folding />
         </state>
       </provider>
@@ -1182,6 +1203,14 @@
             <folding />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zdatbit.thread/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="33" column="0" lean-forward="true" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
