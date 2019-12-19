@@ -1,4 +1,4 @@
-package com.zdatbit.singleton;
+package com.zdatbit.strategy.singleton;
 
 /**
  * 解决线程安全的问题，有一个问题是效率问题

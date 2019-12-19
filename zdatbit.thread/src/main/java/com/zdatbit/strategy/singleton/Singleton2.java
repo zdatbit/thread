@@ -1,4 +1,4 @@
-package com.zdatbit.singleton;
+package com.zdatbit.strategy.singleton;
 
 /**
  * 懒汉式，存在线程安全问题

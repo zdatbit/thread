@@ -1,4 +1,4 @@
-package com.zdatbit.singleton;
+package com.zdatbit.strategy.singleton;
 
 import java.util.stream.IntStream;
 

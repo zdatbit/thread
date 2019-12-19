@@ -1,4 +1,4 @@
-package com.zdatbit.singleton;
+package com.zdatbit.strategy.singleton;
 
 /**
  * Created by zhangdi21 on 2019/11/27.

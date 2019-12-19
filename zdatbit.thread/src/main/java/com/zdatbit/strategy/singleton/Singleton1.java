@@ -1,25 +1,22 @@
-package com.zdatbit.singleton;
+package com.zdatbit.strategy.singleton;
 
 import java.util.stream.IntStream;
 
 /**
- * 不加锁的实现方式
+ * 饿汉式，能保证线程安全
  * Created by zhangdi21 on 2019/11/27.
  */
-public class Singleton6 {
+public class Singleton1 {
 
-    public Singleton6(){
+    private static Singleton1 instance = new Singleton1();
+
+    private Singleton1(){
 
     }
 
-    public static class SingleHolder{
-        public static Singleton6 instace = new Singleton6();
+    public static Singleton1 getInstance(){
+        return instance;
     }
-
-    public static Singleton6 getInstance(){
-        return SingleHolder.instace;
-    }
-
 
     public static void main(String[] args) {
         IntStream.range(0,100).forEach(i->new Thread(){
@@ -29,5 +26,4 @@ public class Singleton6 {
             }
         }.start());
     }
-
 }

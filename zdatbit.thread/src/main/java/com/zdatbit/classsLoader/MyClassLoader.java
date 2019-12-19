@@ -5,6 +5,7 @@ import java.io.File;
 import java.io.FileInputStream;
 
 /**
+ * 从固定地址拿class文件
  * Created by zhangdi21 on 2019/12/11.
  */
 public class MyClassLoader extends ClassLoader{
