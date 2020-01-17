@@ -1,4 +1,4 @@
-package com.zdatbit.atomic;
+package com.zdatbit.juc.atomic;
 
 import java.util.concurrent.atomic.AtomicIntegerFieldUpdater;
 

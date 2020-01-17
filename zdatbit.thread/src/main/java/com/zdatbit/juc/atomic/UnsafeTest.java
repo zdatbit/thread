@@ -1,8 +1,7 @@
-package com.zdatbit.atomic;
+package com.zdatbit.juc.atomic;
 
 import sun.misc.Unsafe;
 
-import java.io.File;
 import java.lang.reflect.Field;
 
 /**
